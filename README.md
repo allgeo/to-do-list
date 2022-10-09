@@ -76,7 +76,7 @@ List of required software and how to install them.
    ```
 4. Start the application 
    ```sh
-   node index.js 
+   node app.js 
    ```
 
 <!-- CONTACT -->
