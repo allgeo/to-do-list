@@ -26,7 +26,7 @@
 
 To-Do-List is a web application app that allows to create lists of task to help stay organized.
 
-This project was an build to to learn more about web development technolocies such as node, express and mongoDB. To-Do-List is a fully functional application that uses expess as the backend and mongoDB as the database.
+This project was an build to to learn web technologies such as node, express and mongoDB. To-Do-List is a fully functional application that uses expess as the backend and mongoDB as the database.
 <br>
 <br>
 To-Do-List is hosted on Heroku along with MongoDB Atlas. A working demo can be found  <a href="shielded-atoll-56706.herokuapp.com/">here</a>
